@@ -104,3 +104,5 @@ Correções desta etapa:
 - Botões e marcadores com emojis de interface são convertidos para ícones vetoriais quando apropriado.
 - Ícone da marca e controles principais receberam tratamento próprio em vermelho.
 - POIs, eventos, perigo, combate, NPCs, personagens e dicas possuem linguagem visual consistente.
+
+GitHub Pages ativo.
